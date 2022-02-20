@@ -1,0 +1,7 @@
+{
+  "name": "CloudCutter",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
